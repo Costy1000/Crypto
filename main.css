@@ -161,7 +161,8 @@ body{
 		padding-top: 2rem;
 		padding-bottom: 2rem;
 		overflow: hidden;
-	   transition: width 1s;
+	       transition: width 1s;
+	       overflow-y: scroll;
 	}
 	.nav-button2-toggle{
 		width: 100%;
