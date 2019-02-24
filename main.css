@@ -936,6 +936,10 @@ body{
 	
 	
 }
+-webkit-@keyframes  move{
+	
+	100% {transform: rotate(360deg) };
+}
 @keyframes  move{
 	
 	100% {transform: rotate(360deg) };
@@ -1003,7 +1007,12 @@ body{
 		height: 50px;
 		animation: move2 3s  linear infinite;
 	}
+
+-webkit-@keyframes  move2{
 	
+	100% {transform: rotate(360deg) };
+}
+		
 @keyframes  move2{
 	
 	100% {transform: rotate(360deg) };
