@@ -80,7 +80,7 @@ body{
 	background: hsla(180, 20%, 20%, 70%);
 	opacity: 0;
 	transition: opacity .30s ease-in-out;
-	cursor: pointer
+	cursor: context-menu;
 }
 .products-sub{
 	width: 800px;
@@ -162,6 +162,7 @@ body{
 		padding-bottom: 2rem;
 		overflow: hidden;
 	   transition: width 1s;
+		overflow-y: scroll;
 	}
 	.nav-button2-toggle{
 		width: 100%;
