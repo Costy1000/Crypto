@@ -165,8 +165,7 @@ body{
 	   transition: width 1s;
 		overflow-y: scroll;
 
-	       transition: width 1s;
-	       overflow-y: scroll;
+	      
 
 	}
 	.nav-button2-toggle{
