@@ -281,7 +281,7 @@ body{
 	color: hsl(0, 0%, 70%);
 	margin-right: 0.5rem;
 	margin-left: 0.5rem;
-	
+	cursor: pointer;
 }
 .landing-page1-button button, .welcome button, .welcome-button {
 	border: 3px solid hsl(150, 100%, 35%);
@@ -519,6 +519,7 @@ body{
 	background:  hsla(0, 0%, 95%, 50%);
 	color: black;
 	transition:  .3s ease-in;
+	cursor: pointer;
 }
 #but-subscribe{
 	cursor: not-allowed;
